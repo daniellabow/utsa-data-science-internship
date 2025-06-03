@@ -16,7 +16,7 @@ Generates the Fibonacci sequence up to a user-defined limit using a loop-based a
 A quick tool to determine whether a given year is a leap year, based on logical conditions in Python.
 
 ### 🚢 Dan's Titanic Dataset
-A basic data analysis script using the Titanic dataset. Demonstrates data handling, exploration, and possibly some light visualization (TBD based on actual content).
+A basic data analysis script using the Titanic dataset. Demonstrates data handling, exploration.
 
 ## Technologies Used
 
