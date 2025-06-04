@@ -26,7 +26,7 @@ A basic data analysis script using the Titanic dataset. Demonstrates data handli
 
 ## About the Internship
 
-This repository is part of my work with the **UTSA Data Science and AI Community Innovation Scholars Program**, in collaboration with local nonprofits. The goal is to apply data science methods to support meaningful causes and build technical experience in the process.
+This repository is part of my work with the **UTSA Data Science and AI Community Innovation Scholars Program**, in collaboration with local nonprofits. The goal is to apply data science methods to support meaningful causes and build technical experience in the process all the while using private & public data, and artificial neural networks.
 
 ---
 
