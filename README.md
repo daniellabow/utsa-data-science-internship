@@ -22,7 +22,7 @@ A basic data analysis script using the Titanic dataset. Demonstrates data handli
 
 - Python 3.x
 - Jupyter Notebook or standard Python scripts
-- (Optional: Pandas, NumPy, Matplotlib – add as needed based on `Dan's Titanic Dataset.py` content)
+- Pandas, NumPy
 
 ## About the Internship
 
