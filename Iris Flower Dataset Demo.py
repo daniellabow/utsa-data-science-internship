@@ -12,9 +12,8 @@ iris.columns = ['sepal_length', 'sepal_width', 'petal_length', 'petal_width', 't
 
 #0=setosa, 1=versicolor, 2=virginica
 
-#x_class = iris.drop(columns="target")
-#outputs = clf.predict(x_test)
-#outputs
+x_class = iris.drop(columns="target")
+outputs = clf.predict(x_test)
 
 #from sklearn.metrics import accuracy_score
 performance = accuracy_score(y_test, outputs)
