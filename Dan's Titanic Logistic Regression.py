@@ -11,6 +11,7 @@ titanic_cleaned = (
     .drop(columns=["Cabin", "Name", "Ticket"]) #drop columns
     .dropna(subset=["Embarked"]) #drop rows w missing embarked
     .assign(
+        
         Age=lambda df: df["Age"].fillna(df["Age"].median()), #fill missing ages w age avg
         Sex=lambda df: df["Sex"].map({"male": 0, "female": 1}), #convert sex to nums
         Embarked=lambda df: df["Embarked"].astype("category").cat.codes #encode 'embarked'

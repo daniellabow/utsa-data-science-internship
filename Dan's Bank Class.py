@@ -51,4 +51,8 @@ class Credit_Card(Bank):
     def get_networth(self):
         return self.bank_balance - self.card_balance
 
-#example code for output
+#dummy data for output
+customer1 = Bank("John", "Doe", datetime.date(1990, 1, 1))
+
+#use functions
+customer1.deposit_money
