@@ -30,7 +30,7 @@ This repository is part of my work with the **UTSA Data Science and AI Community
 
 ---
 
-👩‍💻 Repo maintained by: **Daniella Bowerman**  
+👩‍💻 Repo maintained by: **Daniella Bowerman** aka **Dan**  
 📍 Intern at: United Way San Antonio & Bexar County  
 🎓 B.S. Computer Science, Concentration in Cyber Ops
 🎺 Member of UTSA Mariachi Los Paisanos
